@@ -22,6 +22,10 @@ html {
   text-align: center;
 }
 
+.nav:focus {
+  outline: 3px solid #fff;
+}
+
 .nav a {
   color: #fff;
   text-decoration: none;
