@@ -33,7 +33,6 @@ html {
 
 .nav a:hover span,
 .nav a:focus span {
-  border-bottom-color: #fff;
   outline: 3px solid #fff;
 }
 
