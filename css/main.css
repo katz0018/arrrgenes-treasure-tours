@@ -58,7 +58,7 @@ html {
 .btn-light:focus {
   background-color: #522806;
   border-color: #522806;
-  outline: 3px solid #fff;
+  outline: 3px solid #000;
 }
 
 .btn-banner {
