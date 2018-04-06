@@ -34,6 +34,7 @@ html {
 .nav a:hover span,
 .nav a:focus span {
   border-bottom-color: #fff;
+  outline: 3px solid #fff;
 }
 
 .banner {
@@ -57,6 +58,7 @@ html {
 .btn-light:focus {
   background-color: #522806;
   border-color: #522806;
+  outline: 3px solid #fff;
 }
 
 .btn-banner {
