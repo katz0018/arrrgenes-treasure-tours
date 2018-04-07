@@ -18,6 +18,10 @@ html {
   width: 9em;
 }
 
+.banner {
+  background-color: #000;
+}
+
 .nav {
   text-align: center;
 }
