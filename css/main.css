@@ -18,10 +18,6 @@ html {
   width: 9em;
 }
 
-.banner {
-  background-color: #000;
-}
-
 .nav {
   text-align: center;
 }
@@ -51,6 +47,7 @@ html {
 .banner {
   min-height: 16em;
   color: #fff;
+  background-color: #000;
 }
 
 .card {
